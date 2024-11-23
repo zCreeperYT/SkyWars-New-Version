@@ -1,0 +1,4 @@
+name: SkyWars
+version: '1.0-SNAPSHOT'
+main: de.zcreeper.skywars.SkyWars
+api-version: '1.21'
