@@ -1,0 +1,6 @@
+# Config of SkyWars Plugin
+
+prefix: "§7[§2Sky§fWars§7] "
+noperms: "%prefix% §cDazu hast du keine Rechte."
+join-message: "%prefix% §b%player% §aist der Runde beigetreten."
+quit-message: "%prefix% §b%player% §chat die Runde verlassen."
